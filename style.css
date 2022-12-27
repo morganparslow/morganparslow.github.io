@@ -7,7 +7,7 @@ h1{
     border: solid;
     border-color: rgb(161, 10, 103);
     background: rgb(232, 92, 188);
-    width: 10cm;
+    position: relative;
 }
 button{
     border: none;
