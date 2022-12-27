@@ -1,6 +1,6 @@
 body{
     background-color:rgb(224, 198, 214) ;
-    color: grey;
+    color: white;
 }
 h1{
     color:rgb(161, 10, 103);
@@ -10,7 +10,6 @@ h1{
     border-width: 10cm;
 }
 button{
-    border-radius: 20%;
     border: none;
     background: rgb(137, 200, 232);
 }
