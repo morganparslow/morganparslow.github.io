@@ -6,7 +6,8 @@ h1{
     color:rgb(161, 10, 103);
     border: solid;
     border-color: rgb(161, 10, 103);
-    background: rgb(137, 200, 232);
+    background: rgb(232, 92, 188);
+    border-width: 50%;
 }
 button{
     border-radius: 20%;
