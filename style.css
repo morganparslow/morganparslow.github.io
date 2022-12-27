@@ -1,12 +1,12 @@
 body{
-    background-color:rgb(170, 230, 245) ;
+    background-color:rgb(249, 246, 248) ;
     color: rgb(197, 60, 137);
 }
 h1{
     color:rgb(161, 10, 103);
     border: solid;
     border-color: rgb(161, 10, 103);
-    background: rgb(232, 92, 188);
+    background: rgb(249, 246, 248) ;
     
 }
 button{
